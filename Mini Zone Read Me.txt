@@ -1,0 +1,7 @@
+Game Name: Mini Zone
+Description and idea: I knew I wanted to make a shmup but I didn't know what kind to make that can be beaten in 10 seconds. I was thinking of shmups that have other goals than survival and remembered Fantasy Zone. I love that game a lot So, I decided I would make a mini version of Fantasy Zone.
+Gameplay and Mechanics: The player controls a ship that can move in all directions but always moves forward a slight bit in the direction it's facing. The player can shoot obstacles such as enemies and spawners. To win the game the player must destroy every spawner. The game is lost if the player is hit by an enemy or collides with a spawner. 
+Basic requirements: The game meets the basic requirements as it was created in Unity2D, is single player, has a 10 second time limit, has an intro screen, has an end screen, has a clear goal of destroying spawners, and is not a clone of a unity tutorial.
+Audio requirements: The game meets the audio requirements as I have created and implemented a song for the intro screen, a song for wining the game, a song for loosing the game, background music during gameplay, explosion sound effects when enemies die, and a sound effect for shooting.
+Visual requirements: The game meats the visual requirements as I have created an implemented, a background during gameplay, a sprite for the player, a 2D particle effect for explosions, UI and visuals to display time remaining and how many spawners are left.
+
